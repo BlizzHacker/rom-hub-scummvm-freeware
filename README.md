@@ -1,8 +1,5 @@
 # ScummVM freeware plugin for ROM Hub
 
-A project of the [Move Weight Foundation](https://foundation.moveweight.com), an
-Oklahoma non-profit corporation with 501(c)(3) status pending.
-
 Implements the RPP v1 `search` and `importer` capabilities against
 `https://downloads.scummvm.org/frs/extras/` — twelve complete adventure games
 the ScummVM project distributes free, because their rights holders said so.
